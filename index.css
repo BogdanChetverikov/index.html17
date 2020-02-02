@@ -1,0 +1,40 @@
+*{                                                                    
+    box-sizing: border-box;                                                                    
+    margin: 0;                                                                    
+    padding: 0;                                                                    
+}                                                                    
+                                                             
+.container{                                                                    
+    margin: o auto;                                                                    
+    width: 100%;                                                                    
+    max-width: 1200px;                                                                    
+    padding: 0 15px;                                                                    
+}                                                                    
+                                                             
+body{                                                                    
+    display: flex;                                                                    
+    flex-direction: column;                                                                    
+    font: 16px/100% Arial, Helvetica, sans-serif;                                                                    
+    background-color: black;                                                                    
+}                                                                    
+                                                             
+.contact-us{                                                                    
+    display: flex;                                                                    
+    flex-direction: column;                                                                    
+}                                                                    
+                                                                     
+.input{                                                                                                                     
+    width: 100%;                                                                                                                     
+}                                                                                                                     
+                                                                     
+.left{                                                                                                                     
+    display: flex;                                                                                                                     
+    width: 100%;                                                                                                                     
+}                                                                                                                     
+                                                                     
+.from-wrapper{                                                                                                                     
+    width: 100%;                                                                                                                     
+    display: flex;                                                                                                                     
+}                                                                                                                     
+                                                                     
+                                                             
